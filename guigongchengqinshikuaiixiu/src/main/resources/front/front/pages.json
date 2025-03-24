@@ -1,0 +1,274 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#EF96C5",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/guzhangshangbao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "在线报修展示"
+		}
+	},{
+		"path": "pages/guzhangshangbao/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的在线报修"
+		}
+	},{
+		"path": "pages/guzhangshangbao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "在线报修添加/修改"
+		}
+	},{
+		"path": "pages/guzhangshangbao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "在线报修详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告详情"
+		}
+	}
+	,{
+		"path": "pages/weixiuyuan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "维修人员展示"
+		}
+	},{
+		"path": "pages/weixiuyuan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的维修人员"
+		}
+	},{
+		"path": "pages/weixiuyuan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "维修人员添加/修改"
+		}
+	},{
+		"path": "pages/weixiuyuan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "维修人员详情"
+		}
+	}
+	,{
+		"path": "pages/weixiuyuanCommentback/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "维修人员评价展示"
+		}
+	},{
+		"path": "pages/weixiuyuanCommentback/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的维修人员评价"
+		}
+	},{
+		"path": "pages/weixiuyuanCommentback/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "维修人员评价添加/修改"
+		}
+	},{
+		"path": "pages/weixiuyuanCommentback/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "维修人员评价详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "学生展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的学生"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "学生添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "学生详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "贵工程寝室快修小程序首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "贵工程寝室快修小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#95d3d9",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/news/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "公告信息"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
